@@ -1,0 +1,15 @@
+fastapi
+fastapi_sqlalchemy==0.2.1
+python-dotenv
+numpy
+pandas
+seaborn
+matplotlib
+Pillow
+tensorflow
+uvicorn
+email-validator
+python-jose
+python-multipart  
+psycopg2-binary
+alembic
